@@ -116,7 +116,7 @@ const AutoDeleteToDoList: React.FC = () => {
 
   return (
      <div className="flex flex-col flex-1 justify-center items-center bg-zinc-50 font-sans dark:bg-black p-2">
-      <main className="flex flex-1 w-full max-w-5xl flex-col justify-between py-5 bg-white dark:bg-black sm:items-start">
+      <main className="flex flex-1 w-full max-w-5xl flex-col py-5 bg-white dark:bg-black sm:items-start">
         <a href="/" className="p-2 px-2 text-gray-500 font-bold flex gap-2"><MoveLeft /> Back to main</a>
     <div className="flex justify-center gap-4 w-full">
       <div className="w-1/3 gap-2 flex flex-col">
